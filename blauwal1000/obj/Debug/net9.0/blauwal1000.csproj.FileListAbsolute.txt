@@ -1,0 +1,14 @@
+C:\Users\Student\RiderProjects\blauwal1000\obj\Debug\net9.0\blauwal1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\RiderProjects\blauwal1000\obj\Debug\net9.0\blauwal1000.AssemblyInfoInputs.cache
+C:\Users\Student\RiderProjects\blauwal1000\obj\Debug\net9.0\blauwal1000.AssemblyInfo.cs
+C:\Users\Student\RiderProjects\blauwal1000\obj\Debug\net9.0\blauwal1000.csproj.CoreCompileInputs.cache
+C:\Users\Student\RiderProjects\blauwal1000\bin\Debug\net9.0\blauwal1000.exe
+C:\Users\Student\RiderProjects\blauwal1000\bin\Debug\net9.0\blauwal1000.deps.json
+C:\Users\Student\RiderProjects\blauwal1000\bin\Debug\net9.0\blauwal1000.runtimeconfig.json
+C:\Users\Student\RiderProjects\blauwal1000\bin\Debug\net9.0\blauwal1000.dll
+C:\Users\Student\RiderProjects\blauwal1000\bin\Debug\net9.0\blauwal1000.pdb
+C:\Users\Student\RiderProjects\blauwal1000\obj\Debug\net9.0\blauwal1000.dll
+C:\Users\Student\RiderProjects\blauwal1000\obj\Debug\net9.0\refint\blauwal1000.dll
+C:\Users\Student\RiderProjects\blauwal1000\obj\Debug\net9.0\blauwal1000.pdb
+C:\Users\Student\RiderProjects\blauwal1000\obj\Debug\net9.0\blauwal1000.genruntimeconfig.cache
+C:\Users\Student\RiderProjects\blauwal1000\obj\Debug\net9.0\ref\blauwal1000.dll
